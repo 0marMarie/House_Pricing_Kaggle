@@ -5,4 +5,3 @@ Kaggle competition
 
 ![Screenshot](screen.png)
 <br/>
-
